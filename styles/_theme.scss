@@ -13,7 +13,7 @@ $font-sans: 'Open Sans', sans-serif;
 $masthead-background: $tfn-dark-blue;
 $main-homepage-background: $white;
 $main-homepage-icon-color: $tfn-light-blue;
-$main-homepage-icon-border: $gray-55;
+$main-homepage-icon-border: $tfn-light-blue;
 $main-page-text-color: $black;
 $main-page-btn-color: $gray-80;
 $search-container-background: #e6e2e2;
@@ -26,10 +26,10 @@ $btn-default-border: $black;
 $btn-default-text-color: $gray-80;
 $btn-default-text-hover: $accent;
 $btn-user-initial: $gray-70;
-$elem-link-color: $gray-80;
-$elem-active-link-color: $gray-30;
+$elem-link-color: $tfn-light-blue;
+$elem-active-link-color: $tfn-dark-blue;
 $elem-link-accent: $accent-light;
-$nav-text-color: $gray-70;
+$nav-text-color: $tfn-light-blue;
 
 .logo {
   filter: invert(100%);

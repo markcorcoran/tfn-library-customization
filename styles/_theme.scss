@@ -11,7 +11,7 @@ $font-sans: 'Open Sans', sans-serif;
 //------------------------------------------------------------------------------
 // Classic Dark Theme
 $masthead-background: $tfn-dark-blue;
-$main-homepage-background: $offwhite;
+$main-homepage-background: $white;
 $main-homepage-icon-color: $tfn-light-blue;
 $main-homepage-icon-border: $gray-55;
 $main-page-text-color: $gray-90;
@@ -37,5 +37,5 @@ $nav-text-color: $gray-70;
 
 .g-upper-body h1.headline {
   color: $tfn-dark-blue !important;
-  font-weight: 800;
+  font-weight: 800 !important;
 }

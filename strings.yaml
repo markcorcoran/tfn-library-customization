@@ -1,7 +1,7 @@
 branding:
   name: TFN Library 
-  org: The New York Times
-  orgDomain: nytimes.com
+  org: Texas Freedom Network
+  orgDomain: tfn.org
   prettyName: TFN Library
   favicon: /assets/images/library.ico
 

@@ -6,7 +6,7 @@
   "scripts": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/reyhan-tfn/tfn-library-customization.git"
+    "url": "git+https://github.com/markcorcoran/tfn-library-customization.git"
   },
   "author": "The New York Times",
   "license": "Apache-2.0",

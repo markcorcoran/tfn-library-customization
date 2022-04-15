@@ -1,5 +1,5 @@
 branding:
-  name: TFN Library 
+  name: TFN Library
   org: Texas Freedom Network
   orgDomain: tfn.org
   prettyName: TFN Library
@@ -15,7 +15,7 @@ footer:
   defaultEmail: test.user@nytimes.com
 
 search:
-  placeholder: What do you want to know about Library?
+  placeholder: What are you looking for?
   results:
     none:
       suggestion: To request a new page, submit <a href="https://github.com/nytimes/library">a PR on GitHub</a>.
@@ -24,4 +24,3 @@ search:
 error:
   403:
     message: "<p>For this documentation site, we've disabled the final step of the Move File workflow. Normally, this request would succeed and you'd be taken to the new url for your page.</p>"
-

@@ -32,7 +32,11 @@ $elem-link-accent: $accent-light;
 $nav-text-color: $tfn-light-blue;
 
 .logo {
-  filter: invert(100%);
+  filter: invert(28%) sepia(70%) saturate(1847%) hue-rotate(174deg) brightness(89%) contrast(80%) !important;
+}
+
+a {
+  color: $tfn-light-blue !important;
 }
 
 .g-upper-body h1.headline {

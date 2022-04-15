@@ -18,8 +18,8 @@ $main-page-text-color: $black;
 $main-page-btn-color: $gray-80;
 $search-container-background: #e6e2e2;
 $search-container-hover: $white;
-$btn-homepage-background: $gray-25;
-$btn-homepage-border: $gray-25;
+$btn-homepage-background: #e6e2e2;
+$btn-homepage-border: $black;
 $btn-default-background: $black;
 $btn-default-background-hover: $black;
 $btn-default-border: $black;
@@ -35,12 +35,24 @@ $nav-text-color: $tfn-light-blue;
   filter: invert(28%) sepia(70%) saturate(1847%) hue-rotate(174deg) brightness(89%) contrast(80%) !important;
 }
 
+#user-profile {
+  display: none;
+}
+
 a {
   color: $tfn-light-blue !important;
 }
 
-.masthead, .masthead a {
+a:hover {
+  color: $accent;
+}
+
+#masthead, #masthead a {
   color: $white !important;
+}
+
+#masthead svg.logo {
+  filter: #fff;
 }
 
 .g-upper-body h1.headline {

@@ -2,7 +2,7 @@ branding:
   name: TFN Library 
   org: The New York Times
   orgDomain: nytimes.com
-  prettyName: About Library
+  prettyName: TFN Library
   favicon: /assets/images/library.ico
 
 landing:

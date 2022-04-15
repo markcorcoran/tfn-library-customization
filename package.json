@@ -1,12 +1,12 @@
 {
-  "name": "library-customization-example",
+  "name": " tfn-library-customization",
   "version": "1.0.0",
   "description": "Sample customizations for your Library instance",
   "main": "index.js",
   "scripts": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nytimes/library-customization-example.git"
+    "url": "git+https://github.com/reyhan-tfn/tfn-library-customization.git"
   },
   "author": "The New York Times",
   "license": "Apache-2.0",

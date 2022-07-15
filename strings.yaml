@@ -16,6 +16,9 @@ landing:
     - tag: featured
       label: Most Popular Tool Trainings
       style: docs
+    - tag: featured
+      label: Testy
+      style: docs
 
 footer:
   helpText: To report a problem or get help please message the TFN Data and Technology Department or sumbit a ticket <a href="https://tfn.org/ticket">here</a>.

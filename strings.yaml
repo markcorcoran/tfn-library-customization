@@ -12,7 +12,7 @@ landing:
   modules:
     - tag: team
       label: Topic Areas
-      style: button
+      style: docs
     - tag: featured
       label: Useful Docs
       style: docs

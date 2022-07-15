@@ -8,6 +8,14 @@ branding:
 landing:
   tagline: A central place for all of TFNs Data and Technology trainings, documentation, and rescoruces.
   viewAll: View All Docs
+  quickLink: <a href="/get-started">Get Started.</a>
+  modules:
+    - tag: team
+      label: Find by teamssss
+      style: button
+    - tag: featured
+      label: Useful Docs
+      style: docs
 
 footer:
   helpText: To report a problem or get help please message the TFN Data and Technology Department or sumbit a ticket <a href="https://tfn.org/ticket">here</a>.

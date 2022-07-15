@@ -14,7 +14,7 @@ landing:
       label: Topic Areas
       style: docs
     - tag: featured
-      label: Most Popular Tool Trainings
+      label: Featured Trainings
       style: docs
 
 footer:

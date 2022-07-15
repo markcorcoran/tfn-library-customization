@@ -6,19 +6,18 @@ branding:
   favicon: /assets/images/library.ico
 
 landing:
-  tagline: A simple documentation site, built from content in Google Docs.
+  tagline: A central place for all of TFNs Data and Technology trainings, documentation, and rescoruces.
   viewAll: View All Docs
-  quickLink: <a href="/get-started">Get started</a>.
 
 footer:
-  helpText: For help contributing or to report a problem, consult <a href="https://github.com/nytimes/library">the Library GitHub repository</a>.
-  defaultEmail: test.user@nytimes.com
+  helpText: To report a problem or get help please message the TFN Data and Technology Department or sumbit a ticket <a href="https://tfn.org/ticket">here</a>.
+  defaultEmail: digital@tfn.org
 
 search:
   placeholder: What are you looking for?
   results:
     none:
-      suggestion: To request a new page, submit <a href="https://github.com/nytimes/library">a PR on GitHub</a>.
+      suggestion: To request a new page, submit <a href="https://tfn.org/ticket">a PR on Jotform</a>.
 
 # errors
 error:

@@ -10,7 +10,7 @@ landing:
   viewAll: View All Docs
   quickLink: <a href="/categories">Get Started.</a>
   modules:
-    - tag: testy
+    - tag: topics
       label: Topic Areas
       style: docs
     - tag: featured
